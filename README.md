@@ -1,5 +1,5 @@
 # 💫 About Me:
-😀 You can call me a software developer.<br>👨‍🎓 I'm currently studying for a Master of Science in Applied Computer Science at Fairleigh Dickinson University, Vancouver.<br>📚 I'm currently learning about Java and C++.<br>⚡ Fun Fact about me—I'm a gamer who loves to play FPS games and FIFA.
+😀 You can call me a <ins>Software Developer</ins>.<br>👨‍🎓 I'm currently studying for a <ins>Master of Science in Applied Computer Science</ins> at <ins>Fairleigh Dickinson University, Vancouver.</ins><br>📚 I'm currently learning about <ins>Java and C++.</ins><br>⚡ Fun Fact about me—I'm a gamer who loves to play FPS games and FIFA.
 
 
 ## 🌐 Socials:
